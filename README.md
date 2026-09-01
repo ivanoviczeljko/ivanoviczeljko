@@ -1,12 +1,5 @@
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
 <td width="55%" valign="top">
   
 ### `> whoami`
