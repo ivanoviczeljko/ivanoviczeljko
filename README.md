@@ -1,48 +1,42 @@
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="55%" valign="top" style="border: none;">
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-      <h3>&gt; whoami</h3>
-      
-      <h3>ZELJKO</h3>
+<h3><code>&gt; whoami</code></h3>
 
-      <img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/> 
-      <img src="https://img.shields.io/badge/-SUPPORT%20ENGINEER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/> 
-      <img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=target&logoColor=39FF14"/>
-      <br><br>
+<h3>ZELJKO</h3>
 
-      <h3>&gt; status</h3>
+<img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-SUPPORT%20ENGINEER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=target&logoColor=39FF14"/>
 
-      <img src="https://img.shields.io/badge/ONLINE-39FF14?style=flat-square&labelColor=0d1117" /> <code>building</code> • <code>debugging</code> • <code>shipping</code>
+<h3><code>&gt; status</code></h3>
 
-    </td>
-    
-    <td width="45%" valign="top" style="border: none;">
+<img src="https://img.shields.io/badge/ONLINE-39FF14?style=flat-square&labelColor=0d1117"/>
+<code>building</code> • <code>debugging</code> • <code>shipping</code>
 
-      <h3>&gt;_ SYSTEM_INFO</h3>
+</td>
 
-      <p>
-        <strong>👤 Name</strong>: Zeljko<br>
-        <strong>🏠 Role</strong>: WordPress Developer<br>
-        <strong>📍 Location</strong>: Serbia, Belgrade<br>
-        <strong>🟢 Status</strong>: ONLINE<br>
-        <strong>🎯 Focus</strong>: Web • WordPress • Open Source<br>
-        <strong>⏱️ Experience</strong>: 8+ Years<br>
-        <strong>✉️ Email</strong>: letstalk@zeljko.dev
-      </p>
+<td width="45%" valign="top">
 
-      <code>/home/zeljko</code>
+<h3><code>&gt;_ SYSTEM_INFO</code></h3>
 
-    </td>
-  </tr>
+<table>
+<tr><td>👤 <strong>Name</strong></td><td>Zeljko</td></tr>
+<tr><td>🏠 <strong>Role</strong></td><td>WordPress Developer</td></tr>
+<tr><td>📍 <strong>Location</strong></td><td>Serbia, Belgrade</td></tr>
+<tr><td>🟢 <strong>Status</strong></td><td>ONLINE</td></tr>
+<tr><td>🎯 <strong>Focus</strong></td><td>Web • WordPress • Open Source</td></tr>
+<tr><td>⏱️ <strong>Experience</strong></td><td>8+ Years</td></tr>
+<tr><td>✉️ <strong>Email</strong></td><td>letstalk@zeljko.dev</td></tr>
+</table>
 
-  <!-- 👇 This is the new row for your Skill Icons (in a column) -->
-  <tr>
-    <td colspan="2" align="center" style="border: none; padding-top: 20px;">
-      <h3>🛠️ Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&perline=1" alt="Skills" />
-    </td>
-  </tr>
+<br>
+
+<code>/home/zeljko</code>
+
+</td>
+</tr>
 </table>
 
 
