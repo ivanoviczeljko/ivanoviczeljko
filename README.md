@@ -1,39 +1,4 @@
-<br/><table width="100%">
-<tr>
-<td width="55%" valign="top">
-  
-### `> whoami`
-  
-### `ZELJKO`
 
-<img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/> 
-<img src="https://img.shields.io/badge/-SUPPORT%20ENGINEER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/> 
-<img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=target&logoColor=39FF14"/>
-
-### `> status`
-
-![Status](https://img.shields.io/badge/ONLINE-39FF14?style=flat-square&labelColor=0d1117) `building` • `debugging` • `shipping`
-
-</td>
-<td width="45%" valign="top">
-
-### `>_ SYSTEM_INFO`
-
-| | |
-|---|---|
-| 👤 **Name** | Zeljko |
-| 🏠 **Role** | WordPress Developer |
-| 📍 **Location** | Serbia, Belgrade |
-| 🟢 **Status** | ONLINE |
-| 🎯 **Focus** | Web • WordPress • Open Source |
-| ⏱️ **Experience** | 8+ Years |
-| ✉️ **Email** | letstalk@zeljko.dev |
-
-`/home/zeljko`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
