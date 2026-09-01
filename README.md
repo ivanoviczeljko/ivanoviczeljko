@@ -119,7 +119,9 @@ Git · GitHub · Linux · VS Code · Postman · CI/CD
 
 ### `>_ CONTRIBUTION_GRAPH`
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeljko&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zeljko&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=39FF14&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=39FF14&hide_border=false)
+
+> ⚠️ Replace `zeljko` in the badge URL above with your real GitHub username, otherwise this card stays empty/broken since that account doesn't exist yet.
 
 ```
 > git log --oneline --graph --decorate
@@ -135,19 +137,21 @@ Git · GitHub · Linux · VS Code · Postman · CI/CD
 
 ### `>_ GITHUB_STATS`
 
-<img src="https://img.shields.io/badge/1.2K+-Contributions-0d1117?style=for-the-badge&labelColor=0d1117&color=39FF14"/> <img src="https://img.shields.io/badge/70+-Repositories-0d1117?style=for-the-badge&labelColor=0d1117&color=39FF14"/>
+![Contributions](https://img.shields.io/badge/Contributions-1.2K+-39FF14?style=for-the-badge&labelColor=0d1117)
+![Repositories](https://img.shields.io/badge/Repositories-70+-39FF14?style=for-the-badge&labelColor=0d1117)
 
-<img src="https://img.shields.io/badge/120+-Stars%20Earned-0d1117?style=for-the-badge&labelColor=0d1117&color=39FF14"/> <img src="https://img.shields.io/badge/25+-Open%20Source-0d1117?style=for-the-badge&labelColor=0d1117&color=39FF14"/>
+![Stars](https://img.shields.io/badge/Stars_Earned-120+-39FF14?style=for-the-badge&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/Open_Source-25+-39FF14?style=for-the-badge&labelColor=0d1117)
 
 **SKILLS_OVERVIEW**
 
 ```
-WordPress       ████████████████████░  95%
-PHP             ███████████████████░░  90%
-JavaScript      █████████████████░░░░  80%
-Problem Solving ████████████████████░  95%
-Support         ███████████████████░░  90%
-Performance     █████████████████░░░░  85%
+WordPress        [##################..]  95%
+PHP               [#################...]  90%
+JavaScript        [################....]  80%
+Problem Solving   [##################..]  95%
+Support           [#################...]  90%
+Performance       [################....]  85%
 ```
 
 </td>
