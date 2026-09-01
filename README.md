@@ -229,7 +229,6 @@ Performance       [###################-]  99%
 <a href="https://profiles.wordpress.org/zivanovic"><img src="https://img.shields.io/badge/WordPress-zivanovic-0d1117?style=for-the-badge&logo=wordpress&logoColor=39FF14"/></a>
 <a href="https://linkedin.com/in/zivanovic1235"><img src="https://img.shields.io/badge/LinkedIn-zivanovic1235-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
 <a href="mailto:zzeljkoivanovic@gmail.com"><img src="https://img.shields.io/badge/Email-zzeljkoivanovic@gmail.com-0d1117?style=for-the-badge&logo=maildotru&logoColor=39FF14"/></a>
-<a href="https://ivanoviczeljko.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ivanoviczeljko.github.io/portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/></a>
 </p>
 
 </td>
