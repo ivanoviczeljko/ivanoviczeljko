@@ -99,7 +99,7 @@ My background combines development, technical support and direct customer commun
 <img src="https://skillicons.dev/icons?i=figma" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Figma
 
 </td>
-<td valign="top" width="20%">
+<td valign="top" width="17%">
 
 **BACKEND**
 
@@ -115,7 +115,7 @@ My background combines development, technical support and direct customer commun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="50" align="middle" />&nbsp;&nbsp;&nbsp;JSON
 <br/><br/>
 </td>
-<td valign="top" width="20%">
+<td valign="top" width="23%">
 
 **WORDPRESS**
 
