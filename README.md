@@ -1,7 +1,8 @@
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
-<div class="tenor-gif-embed" data-postid="13476862946232937811" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811">Coding Boy Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<img src="https://c.tenor.com/uwdvcjTWrVMAAAAd/tenor.gif"/> 
   
 ### `> whoami`
   
