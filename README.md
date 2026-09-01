@@ -6,10 +6,10 @@
 
 ### `> whoami`
   
-### `ZELJKO`
+### `ZELJKO IVANOVIC`
 
-<img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/> 
 <img src="https://img.shields.io/badge/-SOFTWARE%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/> 
+<img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/> 
 <img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=target&logoColor=39FF14"/>
 
 
@@ -21,8 +21,9 @@
 
 | | |
 |---|---|
-| 👤 **Name** | Zeljko |
-| 🏠 **Role** | WordPress Developer |
+| 👤 **Name** | Zeljko Ivanovic |
+| 🏠 **Role** | Senior WordPress Developer 3.2 |
+| 🏠 **Company** | GoDaddy |
 | 📍 **Location** | Serbia, Belgrade |
 | 🎯 **Focus** | AI • WordPress • Open Source |
 | ⏱️ **Experience** | 8+ Years |
@@ -197,11 +198,10 @@ My background combines development, technical support and direct customer commun
 
 ### `>_ GITHUB_STATS`
 
-![Contributions](https://img.shields.io/badge/Contributions-1.2K+-39FF14?style=for-the-badge&labelColor=0d1117)
-![Repositories](https://img.shields.io/badge/Repositories-70+-39FF14?style=for-the-badge&labelColor=0d1117)
-
-![Stars](https://img.shields.io/badge/Stars_Earned-120+-39FF14?style=for-the-badge&labelColor=0d1117)
-![Open Source](https://img.shields.io/badge/Open_Source-25+-39FF14?style=for-the-badge&labelColor=0d1117)
+![Repositories](https://img.shields.io/badge/Repositories-5-39FF14?style=for-the-badge&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/Stars_Earned-3-39FF14?style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/badge/Followers-1-39FF14?style=for-the-badge&labelColor=0d1117)
+![Following](https://img.shields.io/badge/Following-0-39FF14?style=for-the-badge&labelColor=0d1117)
 
 **SKILLS_OVERVIEW**
 
@@ -224,20 +224,20 @@ Performance       [###################-]  99%
 
 <table width="100%">
 <tr>
-<td valign="top" width="100%">
-<p align="center">
+<td valign="top" width="100%"><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="1400" height="1">
+<p align="center"></br> 
 <a href="https://profiles.wordpress.org/zivanovic"><img src="https://img.shields.io/badge/WordPress-zivanovic-0d1117?style=for-the-badge&logo=wordpress&logoColor=39FF14"/></a>
 <a href="https://linkedin.com/in/zivanovic1235"><img src="https://img.shields.io/badge/LinkedIn-zivanovic1235-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
 <a href="mailto:zzeljkoivanovic@gmail.com"><img src="https://img.shields.io/badge/Email-zzeljkoivanovic@gmail.com-0d1117?style=for-the-badge&logo=maildotru&logoColor=39FF14"/></a>
 </p>
-
+</br> 
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-_"Remember, if you can dream it, you can do it!"_
+_" **Remember**, if you can dream it, **you can do it!**"_
 
 `> echo "Thanks for stopping by!"` &nbsp;&nbsp;&nbsp;
 
