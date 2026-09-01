@@ -79,8 +79,6 @@ My background combines development, technical support and direct customer commun
 </tr>
 </table>
 
-<br/>
-
 ### `>_ TECHNOLOGIES_I'VE_WORKED_WITH`
 
 <table width="100%">
