@@ -9,8 +9,24 @@
 ### `ZELJKO`
 
 <img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/> 
-<img src="https://img.shields.io/badge/-SUPPORT%20ENGINEER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/> 
+<img src="https://img.shields.io/badge/-SOFTWARE%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/> 
 <img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=target&logoColor=39FF14"/>
+
+
+
+</td>
+<td width="45%" valign="center">
+
+### `>_ SYSTEM_INFO`
+
+| | |
+|---|---|
+| 👤 **Name** | Zeljko |
+| 🏠 **Role** | WordPress Developer |
+| 📍 **Location** | Serbia, Belgrade |
+| 🎯 **Focus** | AI • WordPress • Open Source |
+| ⏱️ **Experience** | 8+ Years |
+| ✉️ **Email** | zzeljkoivanovic@gmail.com |
 
 ### `> status`
 
@@ -24,22 +40,6 @@
   <code>shipping</code>
 </div>
 
-</td>
-<td width="45%" valign="center">
-
-### `>_ SYSTEM_INFO`
-
-| | |
-|---|---|
-| 👤 **Name** | Zeljko |
-| 🏠 **Role** | WordPress Developer |
-| 📍 **Location** | Serbia, Belgrade |
-| 🟢 **Status** | ONLINE |
-| 🎯 **Focus** | AI • WordPress • Open Source |
-| ⏱️ **Experience** | 8+ Years |
-| ✉️ **Email** | zzeljkoivanovic@gmail.com |
-
-`/home/zeljko`
 
 </td>
 </tr>
