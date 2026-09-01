@@ -2,7 +2,8 @@
 <tr>
 <td width="55%" valign="top">
   
-  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"/> 
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"/> 
+
 ### `> whoami`
   
 ### `ZELJKO`
@@ -13,10 +14,18 @@
 
 ### `> status`
 
-![Status](https://img.shields.io/badge/ONLINE-39FF14?style=flat-square&labelColor=0d1117) `building` • `debugging` • `shipping`
+<div>
+  <img src="https://img.shields.io/badge/ONLINE-39FF14?style=flat-square&labelColor=0d1117" valign="middle"/>
+  •
+  <code>building</code>
+  •
+  <code>debugging</code>
+  •
+  <code>shipping</code>
+</div>
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="center">
 
 ### `>_ SYSTEM_INFO`
 
@@ -26,9 +35,9 @@
 | 🏠 **Role** | WordPress Developer |
 | 📍 **Location** | Serbia, Belgrade |
 | 🟢 **Status** | ONLINE |
-| 🎯 **Focus** | Web • WordPress • Open Source |
+| 🎯 **Focus** | AI • WordPress • Open Source |
 | ⏱️ **Experience** | 8+ Years |
-| ✉️ **Email** | letstalk@zeljko.dev |
+| ✉️ **Email** | zzeljkoivanovic@gmail.com |
 
 `/home/zeljko`
 
@@ -79,41 +88,85 @@ My background combines development, technical support and direct customer commun
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma&perline=1" /><br/>
-HTML5 · CSS3 · JavaScript · React · Figma
+<br/>
+<img src="https://skillicons.dev/icons?i=html" height="50" align="middle" />&nbsp;&nbsp;&nbsp;HTML5
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=css" height="50" align="middle" />&nbsp;&nbsp;&nbsp;CSS3
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js" height="50" align="middle" />&nbsp;&nbsp;&nbsp;JavaScript
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react" height="50" align="middle" />&nbsp;&nbsp;&nbsp;React
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Figma
 
 </td>
 <td valign="top" width="20%">
 
 **BACKEND**
 
-<img src="https://skillicons.dev/icons?i=php,python,flask&perline=1" /><br/>
-PHP · Python · Flask · REST APIs · JSON
-
+<br/>
+<img src="https://skillicons.dev/icons?i=php" height="50" align="middle" />&nbsp;&nbsp;&nbsp;PHP
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Python
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=flask" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Flask
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="50" align="middle" />&nbsp;&nbsp;&nbsp;REST APIs
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="50" align="middle" />&nbsp;&nbsp;&nbsp;JSON
+<br/><br/>
 </td>
 <td valign="top" width="20%">
 
 **WORDPRESS**
 
-<img src="https://skillicons.dev/icons?i=wordpress&perline=1" /><br/>
-WordPress · WooCommerce · WP-CLI · Custom Plugins · Custom Themes
-
+<br/>
+<img src="https://skillicons.dev/icons?i=wordpress" height="50" align="middle" />&nbsp;&nbsp;WordPress
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" height="50" align="middle" />&nbsp;&nbsp;WooCommerce
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=bash" height="50" align="middle" />&nbsp;&nbsp;WP-CLI
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="50" align="middle" />&nbsp;&nbsp;Custom Plugins
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="50" align="middle" />&nbsp;&nbsp;Custom Themes
+<br/><br/>
 </td>
 <td valign="top" width="20%">
 
 **DATABASE & INFRA**
-
-<img src="https://skillicons.dev/icons?i=mysql,redis,kafka,aws,docker,elasticsearch&perline=1" /><br/>
-MySQL · Redis · Kafka · AWS · Docker · Elasticsearch
-
+<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="200" height="1">
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50" align="middle" />&nbsp;&nbsp;&nbsp;MySQL
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=redis" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Redis
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kafka" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Kafka
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws" height="50" align="middle" />&nbsp;&nbsp;&nbsp;AWS
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Docker
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=elasticsearch" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Elasticsearch
+<br/><br/>
 </td>
 <td valign="top" width="20%">
 
 **TOOLS & OTHERS**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=1" /><br/>
-Git · GitHub · Linux · VS Code · Postman · CI/CD
-
+<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="200" height="1">
+<br/>
+<img src="https://skillicons.dev/icons?i=git" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Git
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=github" height="50" align="middle" />&nbsp;&nbsp;&nbsp;GitHub
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Linux
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50" align="middle" />&nbsp;&nbsp;&nbsp;VS Code
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postman" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Postman
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="50" align="middle" />&nbsp;&nbsp;&nbsp;CI/CD
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -126,9 +179,9 @@ Git · GitHub · Linux · VS Code · Postman · CI/CD
 
 ### `>_ CONTRIBUTION_GRAPH`
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zeljko&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=39FF14&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=39FF14&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ivanoviczeljko&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=39FF14&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=39FF14&hide_border=false)
 
-> ⚠️ Replace `zeljko` in the badge URL above with your real GitHub username, otherwise this card stays empty/broken since that account doesn't exist yet.
+<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="880" height="1">
 
 ```
 > git log --oneline --graph --decorate
@@ -153,33 +206,42 @@ Git · GitHub · Linux · VS Code · Postman · CI/CD
 **SKILLS_OVERVIEW**
 
 ```
-WordPress        [##################..]  95%
-PHP               [#################...]  90%
-JavaScript        [################....]  80%
-Problem Solving   [##################..]  95%
-Support           [#################...]  90%
-Performance       [################....]  85%
+WordPress         [####################]  100%
+PHP               [####################]  100%
+JavaScript        [####################]  100%
+Problem Solving   [###################-]  99%
+Support           [###################-]  99%
+Performance       [###################-]  99%
 ```
+<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="200" height="1">
 
 </td>
 </tr>
 </table>
 
-<br/>
 
 ### `>_ LET'S_CONNECT`
 
+<table width="100%">
+<tr>
+<td valign="top" width="100%">
 <p align="center">
-<a href="https://github.com/zeljko"><img src="https://img.shields.io/badge/GitHub-github.com%2Fzeljko-0d1117?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
-<a href="https://linkedin.com/in/zeljko"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fzeljko-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
-<a href="mailto:letstalk@zeljko.dev"><img src="https://img.shields.io/badge/Email-letstalk%40zeljko.dev-0d1117?style=for-the-badge&logo=maildotru&logoColor=39FF14"/></a>
-<a href="https://zeljko.dev"><img src="https://img.shields.io/badge/Portfolio-zeljko.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/></a>
+<a href="https://profiles.wordpress.org/zivanovic"><img src="https://img.shields.io/badge/WordPress-zivanovic-0d1117?style=for-the-badge&logo=wordpress&logoColor=39FF14"/></a>
+<a href="https://linkedin.com/in/zivanovic1235"><img src="https://img.shields.io/badge/LinkedIn-zivanovic1235-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
+<a href="mailto:zzeljkoivanovic@gmail.com"><img src="https://img.shields.io/badge/Email-zzeljkoivanovic@gmail.com-0d1117?style=for-the-badge&logo=maildotru&logoColor=39FF14"/></a>
+<a href="https://ivanoviczeljko.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ivanoviczeljko.github.io/portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/></a>
 </p>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-_"Code is like humor. When you have to explain it, it's bad."_
+_"Remember, if you can dream it, you can do it!"_
 
-`> echo "Thanks for stopping by!"` &nbsp;&nbsp;&nbsp; **KEEP BUILDING** 🚀
+`> echo "Thanks for stopping by!"` &nbsp;&nbsp;&nbsp;
+
+**KEEP BUILDING** 🚀
 
 </div>
