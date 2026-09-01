@@ -2,7 +2,7 @@
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://c.tenor.com/uwdvcjTWrVMAAAAd/tenor.gif"/> 
+<img src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif"/> 
   
 ### `> whoami`
   
