@@ -235,7 +235,7 @@ Performance       [###################-]  99%
 
 <div align="center">
 
-_" **Remember**, if you can dream it, **you can do it!**"_
+_"**Remember**, if you can dream it, **you can do it!**"_
 
 `> echo "Thanks for stopping by!"` &nbsp;&nbsp;&nbsp;
 
