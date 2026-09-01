@@ -1,242 +1,76 @@
-# 👨‍💻 Zeljko
-
-```text
-> whoami
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Zeljko README Preview</title>
+<style>
+body{margin:0;background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.wrap{max-width:1000px;margin:40px auto;padding:40px;background:#0d1117}
+h1,h2,h3{color:#fff} h2{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:#39ff14}
+code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+pre{background:#161b22;border:1px solid #30363d;border-radius:6px;padding:16px;overflow:auto;color:#39ff14}
+table{width:100%;border-collapse:collapse;margin:18px 0}td{padding:18px;vertical-align:top;border:1px solid #30363d}
+a{color:#58a6ff} .center{text-align:center}
+.badge{display:inline-block;border:1px solid #30363d;padding:10px 14px;margin:4px;border-radius:6px}
+hr{border:0;border-top:1px solid #30363d;margin:32px 0}
+</style></head><body><div class="wrap">
+<h1><code>&gt;_ Zeljko/README.md</code></h1>
+<pre>WORDPRESS DEVELOPER  //  SUPPORT ENGINEER  //  PROBLEM SOLVER</pre>
+<h2>&gt; WHOAMI</h2>
+<table><tr><td><pre>&gt; whoami
 
 Zeljko
 
-> status
+&gt; status
 
-[ ONLINE ]  ●  building • debugging • shipping
-```
+[ ONLINE ]  ●  building • debugging • shipping</pre>
+<h2>&gt; ABOUT_ME</h2>
+<p>I'm a WordPress Developer with extensive experience building, debugging, and supporting websites and web applications.</p>
+<p>I enjoy taking complicated problems, figuring out what's actually happening under the hood, and turning them into simple, reliable solutions.</p></td>
+<td><h2>&gt; SYSTEM_INFO</h2><pre>┌───────────────────────────────────┐
+│                                   │
+│  NAME        Zeljko               │
+│  ROLE        WordPress Developer  │
+│  LOCATION    Serbia               │
+│  STATUS      ● ONLINE             │
+│  FOCUS       Web / WordPress      │
+│              / Open Source        │
+│                                   │
+└───────────────────────────────────┘
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=WordPress+Developer+%2F%2F+Support+Engineer;Problem+Solver+%2F%2F+Technical+Support;Building+%2F%2F+Debugging+%2F%2F+Automating" alt="Typing SVG" />
-</p>
-
----
-
-## `> SYSTEM_INFO`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Name        Zeljko                                          │
-│  Role        WordPress Developer                             │
-│  Location    Serbia                                           │
-│  Status      ● ONLINE                                         │
-│  Focus       Web • WordPress • Open Source                    │
-│                                                              │
-│  Experience  Development • Support • Troubleshooting         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-/home/zeljko
-```
-
----
-
-## `> ABOUT_ME`
-
-I'm a WordPress Developer with extensive experience building, debugging, and supporting websites and web applications.
-
-I enjoy taking complicated problems, figuring out what's actually happening under the hood, and turning them into simple, reliable solutions.
-
-My background combines development, technical support, troubleshooting, performance optimization, and direct customer communication. Working across both development and support has taught me to look at problems from different angles — not just how to fix something, but why it happened in the first place.
-
-```text
-[ DEVELOPMENT ]   [ WORDPRESS ]   [ SUPPORT ]
-[ TROUBLESHOOTING ]   [ PERFORMANCE ]   [ APIs ]
-[ AUTOMATION ]   [ PROBLEM SOLVING ]
-```
-
----
-
-## `> CURRENT_FOCUS`
-
-```text
-01_  Building better developer tools
+/home/zeljko</pre></td></tr></table>
+<h2>&gt; CURRENT_FOCUS</h2><pre>01_  Building better developer tools
 02_  WordPress & web performance
 03_  Automation & workflows
 04_  AI-assisted development
 05_  Open source & community
 
-> always learning. always building.
-```
-
----
-
-## `> TECHNOLOGIES_I'VE_WORKED_WITH`
-
-### `FRONTEND`
-
-```text
-HTML5
+&gt; always learning. always building.</pre>
+<h2>&gt; TECHNOLOGIES_I'VE_WORKED_WITH</h2>
+<table><tr><td><h3>FRONTEND</h3><pre>HTML5
 CSS3
 JavaScript
 React
-Figma
-```
-
-### `BACKEND`
-
-```text
-PHP
+Figma</pre></td><td><h3>BACKEND</h3><pre>PHP
 Python
 Flask
 REST APIs
-JSON
-```
-
-### `WORDPRESS`
-
-```text
-WordPress
+JSON</pre></td><td><h3>WORDPRESS</h3><pre>WordPress
 WooCommerce
 WP-CLI
 Custom Plugins
-Custom Themes
-```
-
-### `DATABASE & INFRA`
-
-```text
-MySQL
-Redis
-Kafka
-AWS
-Docker
-Elasticsearch
-```
-
-### `TOOLS & OTHER`
-
-```text
-Git
-GitHub
-Linux
-VS Code
-Postman
-CI/CD
-```
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,flask,wordpress,mysql,redis,kafka,aws,docker,elasticsearch,git,github,linux,vscode,postman&perline=10" />
-
-</p>
-
----
-
-## `> CONTRIBUTION_GRAPH`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanoviczeljko&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-```text
-$ git log --all --graph --decorate
-
-* update README.md
-* improve developer tooling
-* contribute to open source
-* fix production issues
-* build something useful
-```
-
----
-
-## `> GITHUB_STATS`
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ivanoviczeljko&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoviczeljko&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF" />
-</p>
-
----
-
-## `> SKILLS_OVERVIEW`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  WORDPRESS          ████████████████████████  ██████████     │
-│  PHP                ████████████████████████  ██████████     │
-│  JAVASCRIPT         ████████████████████░░░░  ████████       │
-│  PROBLEM SOLVING    ████████████████████████  ██████████     │
-│  TECHNICAL SUPPORT  ████████████████████████  ██████████     │
-│  PERFORMANCE        ████████████████████░░░░  ████████       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> WHAT_I_DO`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [01] BUILD                                                   │
-│      WordPress websites, plugins, themes and web solutions   │
-│                                                              │
-│  [02] DEBUG                                                   │
-│      Track down complex bugs, conflicts and production       │
-│      issues                                                    │
-│                                                              │
-│  [03] OPTIMIZE                                                │
-│      Improve performance, reliability and overall UX          │
-│                                                              │
-│  [04] AUTOMATE                                                │
-│      Build tools and workflows that remove repetitive work    │
-│                                                              │
-│  [05] SUPPORT                                                 │
-│      Help users solve technical problems and understand       │
-│      what's happening under the hood                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> LET'S_CONNECT`
-
-<p align="center">
-
-<a href="https://github.com/ivanoviczeljko">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" />
-</a>
-
-<a href="https://www.linkedin.com/in/zivanovic1235/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A4EF" />
-</a>
-
-<a href="mailto:zzelkoivanovic@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" />
-</a>
-
-</p>
-
-<p align="center">
-
-Open to interesting projects, collaboration, open source and conversations about WordPress, development and technology.
-
-</p>
-
----
-
-```text
-────────────────────────────────────────────────────────────────
+Custom Themes</pre></td></tr></table>
+<h2>&gt; CONTRIBUTION_GRAPH</h2>
+<pre>░ ▒ ▓ █ ▓ ▒ ░ ▒ ▓ █ ░ ▓ ▒ ░ █ ▓ ▒
+▒ ▓ █ ▒ ░ ▓ █ ▓ ▒ ░ █ ▓ ▒ ░ ▓ █ ▒
+▓ █ ▓ ░ ▒ █ ▓ ▒ ░ ▓ █ ▒ ░ ▒ ▓ █ ▓</pre>
+<h2>&gt; GITHUB_STATS</h2><div class="center"><span class="badge">GitHub Stats — live</span><span class="badge">Top Languages — live</span></div>
+<h2>&gt; LET'S_CONNECT</h2><div class="center"><span class="badge">GitHub</span><span class="badge">LinkedIn</span><span class="badge">Email</span></div>
+<hr><pre>────────────────────────────────────────────────────────────────
 
 $ echo "Thanks for stopping by."
 
-> connection terminated successfully_
+&gt; connection terminated successfully_
 
                                               KEEP BUILDING 🚀
 
-────────────────────────────────────────────────────────────────
-```
-
-<p align="center">
-  <sub>Built with curiosity, caffeine and a questionable number of terminal tabs.</sub>
-</p>
+────────────────────────────────────────────────────────────────</pre>
+<p class="center"><sub>Built with curiosity, caffeine and a questionable number of terminal tabs.</sub></p>
+</div></body></html>
