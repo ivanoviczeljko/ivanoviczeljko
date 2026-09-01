@@ -14,7 +14,9 @@
   
 ### `ZELJKO`
 
-<img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/> <img src="https://img.shields.io/badge/-SUPPORT%20ENGINEER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/> <img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=target&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/> 
+<img src="https://img.shields.io/badge/-SUPPORT%20ENGINEER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/> 
+<img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=target&logoColor=39FF14"/>
 
 ### `> status`
 
@@ -83,7 +85,7 @@ My background combines development, technical support and direct customer commun
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma&perline=1" /><br/>
 HTML5 · CSS3 · JavaScript · React · Figma
 
 </td>
@@ -91,7 +93,7 @@ HTML5 · CSS3 · JavaScript · React · Figma
 
 **BACKEND**
 
-<img src="https://skillicons.dev/icons?i=php,python,flask" /><br/>
+<img src="https://skillicons.dev/icons?i=php,python,flask&perline=1" /><br/>
 PHP · Python · Flask · REST APIs · JSON
 
 </td>
@@ -99,7 +101,7 @@ PHP · Python · Flask · REST APIs · JSON
 
 **WORDPRESS**
 
-<img src="https://skillicons.dev/icons?i=wordpress" /><br/>
+<img src="https://skillicons.dev/icons?i=wordpress&perline=1" /><br/>
 WordPress · WooCommerce · WP-CLI · Custom Plugins · Custom Themes
 
 </td>
@@ -107,7 +109,7 @@ WordPress · WooCommerce · WP-CLI · Custom Plugins · Custom Themes
 
 **DATABASE & INFRA**
 
-<img src="https://skillicons.dev/icons?i=mysql,redis,kafka,aws,docker,elasticsearch" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,redis,kafka,aws,docker,elasticsearch&perline=1" /><br/>
 MySQL · Redis · Kafka · AWS · Docker · Elasticsearch
 
 </td>
@@ -115,7 +117,7 @@ MySQL · Redis · Kafka · AWS · Docker · Elasticsearch
 
 **TOOLS & OTHERS**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=1" /><br/>
 Git · GitHub · Linux · VS Code · Postman · CI/CD
 
 </td>
