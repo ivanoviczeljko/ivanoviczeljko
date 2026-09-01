@@ -1,8 +1,8 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=ZELJKO&fontColor=39FF14&fontSize=90&fontAlignY=55&desc=%3E_&descAlignY=80&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="./assets/title.svg" width="100%"/>
 
 ### `> whoami`
 
@@ -14,25 +14,8 @@
 
 ![Status](https://img.shields.io/badge/ONLINE-39FF14?style=flat-square&labelColor=0d1117) `building` • `debugging` • `shipping`
 
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### `>_ ABOUT_ME`
-
-I build and support high-performing WordPress websites and web applications. I enjoy solving complex problems, debugging issues others can't, and delivering clean, reliable solutions.
-
-My background combines development, technical support and direct customer communication, which helps me understand problems from every angle.
-
-`DEVELOPMENT` `WORDPRESS` `SUPPORT` `TROUBLESHOOTING`
-`PERFORMANCE` `APIS` `AUTOMATION` `PROBLEM SOLVING`
-
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### `>_ SYSTEM_INFO`
 
@@ -52,6 +35,24 @@ My background combines development, technical support and direct customer commun
 </tr>
 </table>
 
+<br/>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### `>_ ABOUT_ME`
+
+I build and support high-performing WordPress websites and web applications. I enjoy solving complex problems, debugging issues others can't, and delivering clean, reliable solutions.
+
+My background combines development, technical support and direct customer communication, which helps me understand problems from every angle.
+
+`DEVELOPMENT` `WORDPRESS` `SUPPORT` `TROUBLESHOOTING`
+`PERFORMANCE` `APIS` `AUTOMATION` `PROBLEM SOLVING`
+
+</td>
+<td width="45%" valign="top">
+
 ### `>_ CURRENT_FOCUS`
 
 - `01_` Building better developer tools `</>`
@@ -61,6 +62,10 @@ My background combines development, technical support and direct customer commun
 - `05_` Open source & community `👥`
 
 > always learning. always building.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
