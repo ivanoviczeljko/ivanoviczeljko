@@ -227,7 +227,7 @@ Performance       [###################-]  99%
   
 [Symfony](https://github.com/symfony/symfony) - <img src="https://img.shields.io/github/stars/symfony/symfony?style=flat-square&label=%E2%AD%90&labelColor=0d1117&color=39FF14)"  valign="middle" /> - A popular open-source PHP framework for web and console applications, providing reusable PHP components and a large ecosystem for building modern web applications.
 
-[FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - <img src="https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=flat-square&label=%E2%AD%90&labelColor=0d1117&color=39FF14)"  valign="middle" /> - An open-source financial research and analytics terminal built with C++20 and Qt6, featuring market analytics, investment research, AI-powered tools, data connectors, and trading capabilities.
+[FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - <img src="https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=flat-square&label=%E2%AD%90&labelColor=0d1117&color=39FF14)"  valign="middle" /> - Modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
 </div>
 </td>
