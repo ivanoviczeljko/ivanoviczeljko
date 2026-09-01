@@ -83,7 +83,7 @@ My background combines development, technical support and direct customer commun
 
 <table width="100%">
 <tr>
-<td valign="top" width="20%">
+<td valign="top" width="18%">
 
 **FRONTEND**
 
@@ -99,7 +99,7 @@ My background combines development, technical support and direct customer commun
 <img src="https://skillicons.dev/icons?i=figma" height="50" align="middle" />&nbsp;&nbsp;&nbsp;Figma
 
 </td>
-<td valign="top" width="17%">
+<td valign="top" width="19%">
 
 **BACKEND**
 
