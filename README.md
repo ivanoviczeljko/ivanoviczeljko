@@ -1,7 +1,8 @@
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
-
+### `> whoami`
+  `
   #######################                            #######     ########   ########
   #######################                            #######     ########   ########
   #######################                            #######     ########   ########
@@ -20,9 +21,7 @@
                                                              ###########
                                                              ##########
 
-### `> whoami`
-
-# Zeljko
+`
 
 <img src="https://img.shields.io/badge/-WORDPRESS%20DEVELOPER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=wordpress&logoColor=39FF14"/> <img src="https://img.shields.io/badge/-SUPPORT%20ENGINEER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=codesignal&logoColor=39FF14"/> <img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-000000?style=flat-square&color=0d1117&labelColor=0d1117&logo=target&logoColor=39FF14"/>
 
